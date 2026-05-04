@@ -1,8 +1,0 @@
-Data/
-Data_jpg/
-Data_denoised/
-*.tiff
-*.jpg
-*.png
-__pycache__/
-.DS_Store
