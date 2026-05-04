@@ -1,0 +1,12 @@
+Data/
+data/
+Data_jpg/
+Data_denoised/
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+.DS_Store
+.venv/
