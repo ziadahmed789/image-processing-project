@@ -2,6 +2,7 @@ Data/
 data/
 Data_jpg/
 Data_denoised/
+outputs/
 *.tiff
 *.tif
 *.jpg
